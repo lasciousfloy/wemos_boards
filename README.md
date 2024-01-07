@@ -7,7 +7,7 @@ Includes footprints and symbols for:
 
 D1 Mini Lite
 
-ESP-32 Mini (not Wemos, but compatible with shields)
+MH-ET 32 (not Wemos, but compatible with shields)
 
 D32-S2 Mini
 
